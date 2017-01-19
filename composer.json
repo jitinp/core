@@ -19,6 +19,16 @@
         "source": "https://github.com/jitinp/core",
         "docs": "http://flarum.org/docs"
     },
+
+"repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/core/flarum"
+        }
+    ],
+
+
+
     "require": {
         "php": ">=5.5.9",
         "dflydev/fig-cookies": "^1.0.2",
