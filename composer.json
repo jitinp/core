@@ -1,5 +1,5 @@
 {
-    "name": "flarum/core",
+    "name": "jitinp/core",
     "description": "Delightfully simple forum software.",
     "keywords": ["forum", "discussion"],
     "homepage": "http://flarum.org",
@@ -16,7 +16,7 @@
     ],
     "support": {
         "issues": "https://github.com/flarum/core/issues",
-        "source": "https://github.com/flarum/core",
+        "source": "https://github.com/jitinp/core",
         "docs": "http://flarum.org/docs"
     },
     "require": {
